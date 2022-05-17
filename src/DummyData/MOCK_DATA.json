@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "kontrat": "2019",
+    "teklif": "78542",
+    "data": "Alış"
+  },
+  {
+    "id": 2,
+    "kontrat": "2020",
+    "teklif": "45623",
+    "data": "Alış"
+  },
+  {
+    "id": 3,
+    "kontrat": "2019",
+    "teklif": "456",
+    "data": "Satış"
+  },
+  {
+    "id": 4,
+    "kontrat": "2021",
+    "teklif": "123",
+    "data": "Alış"
+  },
+  {
+    "id": 5,
+    "kontrat": "2020",
+    "teklif": "78954",
+    "data": "Satış"
+  }
+]

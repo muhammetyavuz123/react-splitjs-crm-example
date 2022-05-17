@@ -1,0 +1,15 @@
+.split {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.gutter {
+  background-color: #e9e7e7;
+  cursor: row-resize;
+}
+
+.gutter-row {
+  background-color: white;
+}
+/*# sourceMappingURL=Split.css.map */
